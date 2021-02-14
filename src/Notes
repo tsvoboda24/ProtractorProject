@@ -1,0 +1,16 @@
+I spoke to Christina about the time limit and wanted to complete the assignment, but also leave a note to
+where I finished prior. In the time frame I was only able to just start the third examples, more so I was only able to
+ set up the WebTables button. So I did the remainder of problem 3 outside the time frame. The other things that
+ I did outside the time frame, was moving the driver to the Protractor page as well as adding
+ errorLoginMessageBox, logOutButton, waitForElement10sec, and comments. I originally had thread.sleep for the
+ parts as a quick solution.
+
+ Instructions on how to run:
+ You will need to go to PagesProtractor, and find setChromeDriverProperty (this should be located on line 111)
+ In here you're going to want to edit the location of where you have Chrome driver saved, more so take this part:
+ "/Users/theresasvoboda/Documents/selenium/chromedriver" and replace it to the path where you have it saved
+ Once that is done you should be able to run TestCases, you can usually do this a variety of ways but depending on your
+ choice of IDE, there could be a green play button, or a run in the top navigation bar.
+
+
+
